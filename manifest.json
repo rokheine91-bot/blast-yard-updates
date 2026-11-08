@@ -1,16 +1,16 @@
 {
- "latest": "0.40",
- "build": 40,
+ "latest": "0.41",
+ "build": 41,
  "base": "build 37",
  "base_build": 37,
  "net_version": "11",
- "notes": "What's new in 0.40\n\u2022 Bots no longer twitch up and down or flip back and forth. They stand still properly, commit to their plans and stop pacing.\n\u2022 Cornered bots fight back: with you right next to them they bomb instead of playing cat-and-mouse.\n\u2022 Bots no longer stand side by side forever (cursed bots now keep their distance).\n\u2022 Hard bots no longer dither in tight corners at the start of a round, so rounds are faster and more action-packed.\n\u2022 AI debugger: press F9 in a battle to see what every bot is thinking (F10 slow motion, F11 freeze, F12 step).\n\u2022 The log now records every bot decision, so bot bugs can be tracked down from a log.\n\u2022 The F1 debug console now fits on screen.",
+ "notes": "Blast Yard 0.41\n\nNEW\n- Intro: a short cartoon opening with the new Blast Yard logo and theme sound (any key skips it; switch it off in Settings > Display).\n- Early-access notice at start-up.\n- Bug reports: press F8 anytime, describe the problem, and it sends us a screenshot, the game log and what was going on (mode, level, trial, story, enemies, map) so we can fix it fast. Works offline too - reports are sent once you are online.\n- New logo, new game icon, and one clean font across the whole game.\n\nIMPROVED\n- Bots walk smoothly instead of stepping cell by cell (most noticeable on Easy).\n\nYour profile and progress are kept.",
  "patch": {
-  "file": "patch-40.pck",
-  "size": 253600,
-  "sha256": "c9fbc79468eb13a8078f9912d01ffeb33c09bb7f9792ae30fca76b3f0f33b64a",
-  "sig": "TOXrYfxmG+YqfFcPKbhTc5emE9V7EIdgMZ5pxiZBW/BPyleSpfN7+KcdvFJBc8GNgHMgGlntPeSk+iyM32yU6cvh/cNQnuQGfOCGxuHoDfZAZX2zrJZac9i11jt/VBZcWKSNsIbF/WYMEO/4TFDiL8pC3S9dt+B+ZVrB8e1qYLxYOJTji5AWopP8K4WbzuA/ATsdeMsdvZr6clJD5W4KGNxQe2SVyDRPHF3P/sInXAgX0R2sGOv4uHXHSPeVqEhsOfdyHcdFjeMvU9KO2es5M8axkRitsVHMsHfDoO9uspFaim4Rwqrp/TZGqkwLk7D9jEAggvig9hlby4Kgl3bpMg==",
-  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.40/patch-40.pck"
+  "file": "patch-41.pck",
+  "size": 2405704,
+  "sha256": "27dd8d63f2749c8353540a40b86aef0b09da7d40a251a8078ee66a753a2b32b9",
+  "sig": "VXblhr5zSEpba2kEhXS28XdgD/llF+zbMiy5C1FkdBURHlrPCFelodRa5OstonX/Pleox/N+jFHrpHpPwI/gzUb+79i0u4WHbz8Tpc55xklSFsg7qs6QXb/N/2InGfsTKKHJ0Yql6Pn4A4/gy0MbFJD3nKl2ZYF32Xg5n9lroaGLAhwwcE5uuTEQPiHcTSrKHUHc1Bir4xu9yCGBEf9sLlAwbGAPqOpJhanCZzpeDoXVmcw7vYB+5pjJsC+v6nrUWyd+9Mpm20FTM0Lg/yn0qx1MBlwMNKTgnzJyfXvxuIW4TyIqv/Lq/WNuVBC3S12OSxi7+EN22UXuMQ4kVhkBfg==",
+  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.41/patch-41.pck"
  },
  "installer_url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/latest/download/BlastYard-Setup.exe"
 }
