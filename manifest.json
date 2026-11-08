@@ -1,0 +1,16 @@
+{
+ "latest": "0.39",
+ "build": 39,
+ "base": "build 37",
+ "base_build": 37,
+ "net_version": "11",
+ "notes": "What's new in 0.39\n\u2022 Hard bots are tougher: they throw bombs at you with the glove, kick bombs into your path and cut off your escape.\n\u2022 Smarter bots at every level: they dodge new bombs faster and trap themselves less. Easy bots now fight back a little.\n\u2022 When you're out against bots, the rest of the round fast-forwards (x4).\n\u2022 Glove throws over the arena edge now fly across properly and land in the right spot.\n\u2022 Player cards stay compact when you collect lots of power-ups, so they no longer cover the arena.\n\u2022 Update check is faster and more reliable, with a retry button if it fails.",
+ "patch": {
+  "file": "patch-39.pck",
+  "size": 208872,
+  "sha256": "a096262a9f52a1740263f3538dd6d9e23eb4ed6ce84f31ec949aa9377328db46",
+  "sig": "EMSqflfbBFhbaCL1P6xzzlJh1NScgrkEJVcp1Weyz4rhRvixB9LpnzayspMzmlHWyZXhRycf4edpe6gEyy+4NBB7rxJSddLarY/tr8F8SQIm75wJFJOz7/4er6yNRUUWbAbeMlj8CbLDUMrmbPyG6ClFGL4IKafd3CVYvEeZvJiSeFghDJ9jfT/yjyDx5g2gjD6OVCHqI7YTft9tsPVZQvr7HM3YJGr6wHTF9U7NQ/rAKNG9APlS65Ba7jYO0Va3K324t+j0keD0iU1Y4gfUFKz/htPwgfPPXbk24XkmdUhD90sdY+za+st+v4X/jsiTb62FU2UXqaJIhjcCZD+hBw==",
+  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.39/patch-39.pck"
+ },
+ "installer_url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/latest/download/BlastYard-Setup.exe"
+}
