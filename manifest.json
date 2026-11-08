@@ -1,16 +1,16 @@
 {
- "latest": "0.39",
- "build": 39,
+ "latest": "0.40",
+ "build": 40,
  "base": "build 37",
  "base_build": 37,
  "net_version": "11",
- "notes": "What's new in 0.39\n\u2022 Hard bots are tougher: they throw bombs at you with the glove, kick bombs into your path and cut off your escape.\n\u2022 Smarter bots at every level: they dodge new bombs faster and trap themselves less. Easy bots now fight back a little.\n\u2022 When you're out against bots, the rest of the round fast-forwards (x4).\n\u2022 Glove throws over the arena edge now fly across properly and land in the right spot.\n\u2022 Player cards stay compact when you collect lots of power-ups, so they no longer cover the arena.\n\u2022 Update check is faster and more reliable, with a retry button if it fails.",
+ "notes": "What's new in 0.40\n\u2022 Bots no longer twitch up and down or flip back and forth. They stand still properly, commit to their plans and stop pacing.\n\u2022 Cornered bots fight back: with you right next to them they bomb instead of playing cat-and-mouse.\n\u2022 Bots no longer stand side by side forever (cursed bots now keep their distance).\n\u2022 Hard bots no longer dither in tight corners at the start of a round, so rounds are faster and more action-packed.\n\u2022 AI debugger: press F9 in a battle to see what every bot is thinking (F10 slow motion, F11 freeze, F12 step).\n\u2022 The log now records every bot decision, so bot bugs can be tracked down from a log.\n\u2022 The F1 debug console now fits on screen.",
  "patch": {
-  "file": "patch-39.pck",
-  "size": 208872,
-  "sha256": "a096262a9f52a1740263f3538dd6d9e23eb4ed6ce84f31ec949aa9377328db46",
-  "sig": "EMSqflfbBFhbaCL1P6xzzlJh1NScgrkEJVcp1Weyz4rhRvixB9LpnzayspMzmlHWyZXhRycf4edpe6gEyy+4NBB7rxJSddLarY/tr8F8SQIm75wJFJOz7/4er6yNRUUWbAbeMlj8CbLDUMrmbPyG6ClFGL4IKafd3CVYvEeZvJiSeFghDJ9jfT/yjyDx5g2gjD6OVCHqI7YTft9tsPVZQvr7HM3YJGr6wHTF9U7NQ/rAKNG9APlS65Ba7jYO0Va3K324t+j0keD0iU1Y4gfUFKz/htPwgfPPXbk24XkmdUhD90sdY+za+st+v4X/jsiTb62FU2UXqaJIhjcCZD+hBw==",
-  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.39/patch-39.pck"
+  "file": "patch-40.pck",
+  "size": 253600,
+  "sha256": "c9fbc79468eb13a8078f9912d01ffeb33c09bb7f9792ae30fca76b3f0f33b64a",
+  "sig": "TOXrYfxmG+YqfFcPKbhTc5emE9V7EIdgMZ5pxiZBW/BPyleSpfN7+KcdvFJBc8GNgHMgGlntPeSk+iyM32yU6cvh/cNQnuQGfOCGxuHoDfZAZX2zrJZac9i11jt/VBZcWKSNsIbF/WYMEO/4TFDiL8pC3S9dt+B+ZVrB8e1qYLxYOJTji5AWopP8K4WbzuA/ATsdeMsdvZr6clJD5W4KGNxQe2SVyDRPHF3P/sInXAgX0R2sGOv4uHXHSPeVqEhsOfdyHcdFjeMvU9KO2es5M8axkRitsVHMsHfDoO9uspFaim4Rwqrp/TZGqkwLk7D9jEAggvig9hlby4Kgl3bpMg==",
+  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.40/patch-40.pck"
  },
  "installer_url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/latest/download/BlastYard-Setup.exe"
 }
