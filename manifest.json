@@ -1,16 +1,16 @@
 {
- "latest": "0.41",
- "build": 41,
+ "latest": "0.42",
+ "build": 42,
  "base": "build 37",
  "base_build": 37,
  "net_version": "11",
- "notes": "Blast Yard 0.41\n\nNEW\n- Intro: a short cartoon opening with the new Blast Yard logo and theme sound (any key skips it; switch it off in Settings > Display).\n- Early-access notice at start-up.\n- Bug reports: press F8 anytime, describe the problem, and it sends us a screenshot, the game log and what was going on (mode, level, trial, story, enemies, map) so we can fix it fast. Works offline too - reports are sent once you are online.\n- New logo, new game icon, and one clean font across the whole game.\n\nIMPROVED\n- Bots walk smoothly instead of stepping cell by cell (most noticeable on Easy).\n\nYour profile and progress are kept.",
+ "notes": "Blast Yard 0.42\n\nMONSTERS\n- Every monster has its own personality now. Blobs are slower and mostly wander; Chasers are the real hunters; Mimics ambush in short bursts; Ghosts and Hoppers drift your way less often.\n- Monsters have to see you (straight line, not through blocks) or, for Chasers and Mimics, hear you close by.\n- A monster that spots you shows a \"!\" and stops for a moment before it comes for you - your warning.\n- They get bored: after a few seconds of chasing they show a \"?\" and leave you alone for a while.\n- At most 2 monsters chase you at once - the rest keep wandering. Bosses are unchanged.\n- Smart monsters (Chasers, Mimics) step out of a bomb's blast line - lure the dumb ones in instead.\n\nSAFER UPDATES\n- Your save is copied every time a new version starts, so an update can never cost you your progress.\n\nYour profile and progress are kept.",
  "patch": {
-  "file": "patch-41.pck",
-  "size": 2405704,
-  "sha256": "27dd8d63f2749c8353540a40b86aef0b09da7d40a251a8078ee66a753a2b32b9",
-  "sig": "VXblhr5zSEpba2kEhXS28XdgD/llF+zbMiy5C1FkdBURHlrPCFelodRa5OstonX/Pleox/N+jFHrpHpPwI/gzUb+79i0u4WHbz8Tpc55xklSFsg7qs6QXb/N/2InGfsTKKHJ0Yql6Pn4A4/gy0MbFJD3nKl2ZYF32Xg5n9lroaGLAhwwcE5uuTEQPiHcTSrKHUHc1Bir4xu9yCGBEf9sLlAwbGAPqOpJhanCZzpeDoXVmcw7vYB+5pjJsC+v6nrUWyd+9Mpm20FTM0Lg/yn0qx1MBlwMNKTgnzJyfXvxuIW4TyIqv/Lq/WNuVBC3S12OSxi7+EN22UXuMQ4kVhkBfg==",
-  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.41/patch-41.pck"
+  "file": "patch-42.pck",
+  "size": 2515464,
+  "sha256": "7af2f9a2e3120be463b05134ee706a625a800e5e963429e56234c50e7c78db13",
+  "sig": "hbhJhaXtlqxdthxAdJvNSl/VjBoJEoZwHPtJcr7fMfGoM/FptG1uMmL+7UZqCIuz3B9h7xl5ihpaY+Iu5AVqRck4r6uBW1ONyNmfMob19nSk7zhN1u4c/4iGVcMEni5a3yQJvy/CvDWhHbi2lQ/UGftFTU3s2Xea5zMrstUG9MgvPXO/6Xl5p+IfmWINWInC9O8FEiWsChB4Mh1kdlCXMmuLGKw5m5s5ZR/d4DFlzGW/WODi76L6Je0jG64Ocy+oUNYtC4Y+e1fUeZ2nTP2sTDvXTy6flkz7eP3BtcxfCr6X4YAgIbwBm4qlsgcYCXeNTUogtRAz4OeAwZoE1CWCsg==",
+  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.42/patch-42.pck"
  },
  "installer_url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/latest/download/BlastYard-Setup.exe"
 }
