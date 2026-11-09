@@ -1,16 +1,16 @@
 {
- "latest": "0.44",
- "build": 44,
+ "latest": "0.45",
+ "build": 45,
  "base": "build 37",
  "base_build": 37,
  "net_version": "11",
- "notes": "0.44\n- Bushes: new leafy look, and a new burnt-bush look\n- Faster: much less drawing work per frame, bots no longer cause small stutters\n- Bomb hitbox: you can step off your own bomb but never walk back onto it\n- Thrown bombs landing on another bomb hop on to the next free tile\n- Curse: touching another player passes your curse to them (you're clean); cursed bots now try to pass it to you\n- Battle: 20% fewer power-ups (31 instead of 39)\n- Teleporters catch you even when you walk along their edge\n- Dead rider on the edge faces into the field\n- F8 bug report: you can type in it, and it closes after sending",
+ "notes": "0.45\n- Ice: real momentum - slide in any direction, turns keep most of your speed (too fast and you overshoot), drift on open ice, analog stick works, walls bump and slide\n- New music: Silly Orchestrals by Tim Beek + our best tracks; every map has 2 tracks that take turns; hurry-up switches to a faster version\n- All music at the same volume\n- Music credit in Settings > Audio",
  "patch": {
-  "file": "patch-44.pck",
-  "size": 2545820,
-  "sha256": "4da1db57ed1652e1cc9fb0dad535bd75b741b8cc6706f2111b42e4c9fddc4240",
-  "sig": "dBRQFeQ+rdb0bDZQZFCoDk8K7JPWMHz4gUJZ8pySKUqBI4+R+UTS17VXCyS5R06sWNE39xu06zoKYMAiyoOTGQfzC0Ks355v7rodkOjX/lCr1wC60mLC98BsXyPSDbbZGQoirsXUk3xQBi0mMHeIY1qY/3YJbShdQd3b2kKsJ3q/6+0L5kF2cp8v0XzzxrkFqt9JIJMTR1icgeg0crhq4eVTYP3XwhZ9YwKhLnQGRU28k4zQcnwrPK2inyw90okTzU++JilSHhKjig/9zlM3bf0BRaoLMbb8XlDbprRZcQrCREf8hqEfNyhYiLMQsPwJWsW4q3FNhHdWLAko8W39Cg==",
-  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.44/patch-44.pck"
+  "file": "patch-45.pck",
+  "size": 35566000,
+  "sha256": "4fe80f39c10021d7dc52848aa2c36fa53fea6bd731e0bb72c782fd09a8eba9fc",
+  "sig": "jg/UDMEC0ay9/fAv7Hz5bhaijPZQEk0x+AmPDKpoce1WwJ1kW3Zsb2jAKbVyoazqVmqm7/knqcyz7Q3QfGy2ActOij7ub6yRg7Tx3Qz0y3S7PUFgM0i1jSNAgajtSOIR0D24SJkWCBEg+Ghn06kMgStcddJPuI7Vkk30e6qHs6yFB1u0ARYRzbaiXinhr6N+pwR73+V8+UlPSEEq3mX7F5I+ut3ObBycOCgt1zqQ/y93JGTA3S0vU87a4VUIoM+cakqUCR2PldX2quo6Fs5KPy8BWvpNVcLviJUpBZfniU4Plqq3gmAsWI7RJdhA7ev6Lg4ETnKWCesB9WFnlJwRRg==",
+  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.45/patch-45.pck"
  },
  "installer_url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/latest/download/BlastYard-Setup.exe"
 }
