@@ -1,16 +1,16 @@
 {
- "latest": "0.42",
- "build": 42,
+ "latest": "0.43",
+ "build": 43,
  "base": "build 37",
  "base_build": 37,
  "net_version": "11",
- "notes": "Blast Yard 0.42\n\nMONSTERS\n- Every monster has its own personality now. Blobs are slower and mostly wander; Chasers are the real hunters; Mimics ambush in short bursts; Ghosts and Hoppers drift your way less often.\n- Monsters have to see you (straight line, not through blocks) or, for Chasers and Mimics, hear you close by.\n- A monster that spots you shows a \"!\" and stops for a moment before it comes for you - your warning.\n- They get bored: after a few seconds of chasing they show a \"?\" and leave you alone for a while.\n- At most 2 monsters chase you at once - the rest keep wandering. Bosses are unchanged.\n- Smart monsters (Chasers, Mimics) step out of a bomb's blast line - lure the dumb ones in instead.\n\nSAFER UPDATES\n- Your save is copied every time a new version starts, so an update can never cost you your progress.\n\nYour profile and progress are kept.",
+ "notes": "Blast Yard 0.43\n\nMONSTERS\n- A monster that sees you always reacts now: \"!\", a short stare, then it heads for the spot where it saw you - and follows you while it can still see you.\n- Lose it (around a corner, behind blocks, into a bush) and it goes to where you were, looks around, says \"?\" and goes back to wandering.\n- Sometimes a monster takes another way round and comes at you from a different side. Chasers do it most.\n\nBUSHES\n- Bushes are a real hiding place now: monsters can't see you inside (up close, Chasers and Mimics can still hear you).\n- Walking through bushes is a bit slower.\n- Monsters hide in bushes too - watch for rustling leaves.\n- Bushes burn properly: flames, burnt leaves, a scorched patch - and the fire spreads along a row of bushes. Don't wait inside a burning row!\n- New look: bigger, darker, leafy bushes you can't mistake for grass.\n\nINFO\n- New \"Monster signs: ! and ?\" card, and updated Blob, Chaser, Mimic and Bush cards (shown once more if you read the old ones). Also in How to play.\n\nYour profile and progress are kept.",
  "patch": {
-  "file": "patch-42.pck",
-  "size": 2515464,
-  "sha256": "7af2f9a2e3120be463b05134ee706a625a800e5e963429e56234c50e7c78db13",
-  "sig": "hbhJhaXtlqxdthxAdJvNSl/VjBoJEoZwHPtJcr7fMfGoM/FptG1uMmL+7UZqCIuz3B9h7xl5ihpaY+Iu5AVqRck4r6uBW1ONyNmfMob19nSk7zhN1u4c/4iGVcMEni5a3yQJvy/CvDWhHbi2lQ/UGftFTU3s2Xea5zMrstUG9MgvPXO/6Xl5p+IfmWINWInC9O8FEiWsChB4Mh1kdlCXMmuLGKw5m5s5ZR/d4DFlzGW/WODi76L6Je0jG64Ocy+oUNYtC4Y+e1fUeZ2nTP2sTDvXTy6flkz7eP3BtcxfCr6X4YAgIbwBm4qlsgcYCXeNTUogtRAz4OeAwZoE1CWCsg==",
-  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.42/patch-42.pck"
+  "file": "patch-43.pck",
+  "size": 2536668,
+  "sha256": "c36110806db65fb34279cdc1e86f8a6b2e92678909097a2650af5e5421e97f41",
+  "sig": "I7ux/lTrFtlmXusbUDe5MShKU2+rUx0sWCAAzUKRdpBxb8vCOFFlRpEA1xdUltmsVEzxeObWo8VYFhrhrvZO3RVyzF/oCNuBAeE7g8/Zi8xJCi79Q8qNFugPPEu4hLEGhCQUuRaUFh5vrA3jahwho2X8IMf/FuufM22EDUpo103/WgNKEIVnwkKKIl0rq72om89Rywt1VNgBqYTcSymVOS1HItBHCZ2ZUHtesnfAKS3CaMAaru9t64KtDvI56TQ/3pG2Zqjs7PkQ9jnrLdxJg643hjY/01ItGqJjxLw93EUZprhTE0DYWmCnLhfIOf5IQqpM2fHaL3zUZGlNtjelNA==",
+  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.43/patch-43.pck"
  },
  "installer_url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/latest/download/BlastYard-Setup.exe"
 }
