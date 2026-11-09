@@ -1,16 +1,16 @@
 {
- "latest": "0.43",
- "build": 43,
+ "latest": "0.44",
+ "build": 44,
  "base": "build 37",
  "base_build": 37,
  "net_version": "11",
- "notes": "Blast Yard 0.43\n\nMONSTERS\n- A monster that sees you always reacts now: \"!\", a short stare, then it heads for the spot where it saw you - and follows you while it can still see you.\n- Lose it (around a corner, behind blocks, into a bush) and it goes to where you were, looks around, says \"?\" and goes back to wandering.\n- Sometimes a monster takes another way round and comes at you from a different side. Chasers do it most.\n\nBUSHES\n- Bushes are a real hiding place now: monsters can't see you inside (up close, Chasers and Mimics can still hear you).\n- Walking through bushes is a bit slower.\n- Monsters hide in bushes too - watch for rustling leaves.\n- Bushes burn properly: flames, burnt leaves, a scorched patch - and the fire spreads along a row of bushes. Don't wait inside a burning row!\n- New look: bigger, darker, leafy bushes you can't mistake for grass.\n\nINFO\n- New \"Monster signs: ! and ?\" card, and updated Blob, Chaser, Mimic and Bush cards (shown once more if you read the old ones). Also in How to play.\n\nYour profile and progress are kept.",
+ "notes": "0.44\n- Bushes: new leafy look, and a new burnt-bush look\n- Faster: much less drawing work per frame, bots no longer cause small stutters\n- Bomb hitbox: you can step off your own bomb but never walk back onto it\n- Thrown bombs landing on another bomb hop on to the next free tile\n- Curse: touching another player passes your curse to them (you're clean); cursed bots now try to pass it to you\n- Battle: 20% fewer power-ups (31 instead of 39)\n- Teleporters catch you even when you walk along their edge\n- Dead rider on the edge faces into the field\n- F8 bug report: you can type in it, and it closes after sending",
  "patch": {
-  "file": "patch-43.pck",
-  "size": 2536668,
-  "sha256": "c36110806db65fb34279cdc1e86f8a6b2e92678909097a2650af5e5421e97f41",
-  "sig": "I7ux/lTrFtlmXusbUDe5MShKU2+rUx0sWCAAzUKRdpBxb8vCOFFlRpEA1xdUltmsVEzxeObWo8VYFhrhrvZO3RVyzF/oCNuBAeE7g8/Zi8xJCi79Q8qNFugPPEu4hLEGhCQUuRaUFh5vrA3jahwho2X8IMf/FuufM22EDUpo103/WgNKEIVnwkKKIl0rq72om89Rywt1VNgBqYTcSymVOS1HItBHCZ2ZUHtesnfAKS3CaMAaru9t64KtDvI56TQ/3pG2Zqjs7PkQ9jnrLdxJg643hjY/01ItGqJjxLw93EUZprhTE0DYWmCnLhfIOf5IQqpM2fHaL3zUZGlNtjelNA==",
-  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.43/patch-43.pck"
+  "file": "patch-44.pck",
+  "size": 2545820,
+  "sha256": "4da1db57ed1652e1cc9fb0dad535bd75b741b8cc6706f2111b42e4c9fddc4240",
+  "sig": "dBRQFeQ+rdb0bDZQZFCoDk8K7JPWMHz4gUJZ8pySKUqBI4+R+UTS17VXCyS5R06sWNE39xu06zoKYMAiyoOTGQfzC0Ks355v7rodkOjX/lCr1wC60mLC98BsXyPSDbbZGQoirsXUk3xQBi0mMHeIY1qY/3YJbShdQd3b2kKsJ3q/6+0L5kF2cp8v0XzzxrkFqt9JIJMTR1icgeg0crhq4eVTYP3XwhZ9YwKhLnQGRU28k4zQcnwrPK2inyw90okTzU++JilSHhKjig/9zlM3bf0BRaoLMbb8XlDbprRZcQrCREf8hqEfNyhYiLMQsPwJWsW4q3FNhHdWLAko8W39Cg==",
+  "url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/download/v0.44/patch-44.pck"
  },
  "installer_url": "https://github.com/rokheine91-bot/blast-yard-updates/releases/latest/download/BlastYard-Setup.exe"
 }
